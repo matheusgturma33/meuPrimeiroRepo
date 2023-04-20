@@ -1,15 +1,27 @@
 
 # meuPrimeiroRepo
 
-Esse é o meu primeiro repositório
+Esse é o meu primeiro repositório onde irei adicionar os meus exercícios e meus projetinhos marotos!
+
 
 Nesse repositó~~rio temos as atividades~~ 
 
- - Lessons Learnd
+ - Lessons Learned
  - PlayGround Functions
  - Pixels Art
  - Trybewarts
  - **Zoo Functions**
 
-Com esses projetos consegui aprender as seguintes tecnologias ![enter image description here](https://img.freepik.com/fotos-gratis/imagem-aproximada-da-cabeca-de-um-lindo-leao_181624-35855.jpg?w=2000)
+Com esses projetos consegui aprender as seguintes tecnologias:
+- Git
+- Shell
+- Kernel
+- Autoliderança
+- Github
+- Versionar repositórios
+- criar diretórios pelo terminal
+- zsh 
+- ssh
+- chave pública
+
     
