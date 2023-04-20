@@ -23,5 +23,9 @@ Com esses projetos consegui aprender as seguintes tecnologias:
 - zsh 
 - ssh
 - chave pública
+- persitência
+- aprender a aprender 
+- clonar repositório
+- Abrir uma pull request
 
     
